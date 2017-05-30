@@ -7,3 +7,6 @@
 [submodule "docker-mongodb"]
 	path = docker-mongodb
 	url = git@github.com:JustDevZero/docker-mongodb.git
+[submodule "docker-debian-nginx-php7-fpm"]
+	path = docker-debian-nginx-php7-fpm
+	url = git@github.com:JustDevZero/docker-debian-nginx-php7-fpm.git
