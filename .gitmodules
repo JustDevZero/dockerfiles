@@ -1,12 +1,3 @@
-[submodule "docker-postgresql8.4"]
-	path = docker-postgresql8.4
-	url = git@github.com:JustDevZero/docker-postgresql8.4.git
-[submodule "docker-postgresql9.6"]
-	path = docker-postgresql9.6
-	url = git@github.com:JustDevZero/docker-postgresql9.6.git
-[submodule "docker-mongodb"]
-	path = docker-mongodb
-	url = git@github.com:JustDevZero/docker-mongodb.git
 [submodule "docker-debian-nginx-php7-fpm"]
 	path = docker-debian-nginx-php7-fpm
 	url = git@github.com:JustDevZero/docker-debian-nginx-php7-fpm.git
